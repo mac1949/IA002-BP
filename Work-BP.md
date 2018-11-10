@@ -25,10 +25,15 @@
 
 ![img](https://pic3.zhimg.com/80/v2-5b833f4c98abcce9c8e323a532fa90a6_hd.jpg)
 
-- 开卷实体书店指数在正常波动范围
+- 开卷实体书店指数在正常波动范围,但8月环比、同比较往年降幅较大
+
 2018年8月，开卷实体书店指数为293.2，比2018年7月下降了126.68个点，环比下降了30.17%，同比下降了9.8%。
 ![img](https://github.com/mac1949/IA002-BP/blob/master/IMG/kaijuanzhishu.png)
+![img](https://github.com/mac1949/IA002-BP/blob/master/IMG/huanbi.png)
+![img](https://github.com/mac1949/IA002-BP/blob/master/IMG/tongbi.png)
 
+从全国实体书店渠道五大地区来看，与2018年7月相比，五大地区均表现为环比下降。与2017年8月相比，中南地区同比上升，其余四大地区表现为同比下降。
+![img](https://github.com/mac1949/IA002-BP/blob/master/IMG/wudaqu.png)
 
 近两年，实体书店如：诚品、方所、言几又、西西弗、钟书阁、字里行间、建投书局、单向空间、猫的天空之城、一个书店这些新兴文化空间成为人们关注的焦点。
 
