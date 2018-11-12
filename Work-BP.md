@@ -10,7 +10,7 @@
 
 ![表一.png](http://www.cptoday.cn/articlefile/1532419484355074191.png)
 
-### 2018年图书零售市场继续增长，但上半年增速放缓。
+### 2018年国内图书零售市场继续增长，但上半年增速放缓。
 
 ![img](http://www.xinhuanet.com/book/2018-08/22/129937399_15348973588131n.jpg)![img](http://www.xinhuanet.com/book/2018-08/22/129937399_15348973588421n.jpg)
 
